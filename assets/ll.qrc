@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon _magnifying glass.png</file>
+  </qresource>
+</RCC>

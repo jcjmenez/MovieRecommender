@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Cinema-Logo-PNG-HD-Quality.png</file>
+    <file>icon _person.png</file>
+    <file>icon _person.png</file>
+  </qresource>
+</RCC>
